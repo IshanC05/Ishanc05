@@ -19,7 +19,7 @@
 
 ![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=ishanc05&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanc05&layout=compact)](https://github.com/ishanc05)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanc05&theme=slateorange&layout=donut)](https://github.com/ishanc05)
 
 <br/>
 
