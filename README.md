@@ -19,6 +19,8 @@
 
 ![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=ishanc05&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanc05&layout=compact)](https://github.com/ishanc05)
+
 <br/>
 
 ### Languages and Tools:
@@ -54,6 +56,17 @@
 
 ---
 
+
+  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ishanc05" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.hackerrank.com/IshanC05" target="blank">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<a href="https://leetcode.com/IshanC05/" target="blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://auth.geeksforgeeks.org/user/luciferisbad" target="blank">![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)</a>
+</p>
 
  
 
